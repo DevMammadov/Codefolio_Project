@@ -6,9 +6,9 @@
 
 **Programming languages i use in this website**
 
-**Back end - Asp.net Core MVC 2.2 , MSSQL Entity Framework
+**Back end - Asp.net Core MVC 2.2 , MSSQL Entity Framework**
 
-Front end -HTML5, Css3, Javascript (JQuery, Ajax) 
+**Front end -HTML5, Css3, Javascript (JQuery, Ajax) 
 Pages dont reload when you are in website thanks to Ajax and JSON. 
 the site is not completely programmed so there may be some mistakes**
 
