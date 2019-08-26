@@ -1,5 +1,5 @@
 # Codefolio_Project 
-**live demo =>  http://mrferid-001-site1.ftempurl.com/  (PS. this free server speed may be low upload small photos :) )**
+**live demo =>  http://mrferid-001-site1.ftempurl.com/  (PS. this is the free server so, speed may be low upload small photos :) )**
 
 **What is it ?**
 *its social network for designers and programmers for sharing their porfolio and CV developed by me.*
