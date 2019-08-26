@@ -9,8 +9,7 @@
 **Back end - Asp.net Core MVC 2.2 , MSSQL Entity Framework
 Fron end -HTML5, Css3, Javascript (JQuery, Ajax) 
 Pages dont reload when you are in website thanks to Ajax and JSON. 
-the site is not completely programmed so there may be some mistakes
-**
+the site is not completely programmed so there may be some mistakes**
 
 **How can i use**
 **for users:** you can register, create your own profile choose your favorite color for your profile add your skills (with their headers) portfolio with images, work experience about yourself etc. the website will create CV for you with your information you add. you can also change the color and design of your cv. then your CV will be published along with others in the search page. 
