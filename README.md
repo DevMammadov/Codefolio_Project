@@ -1,10 +1,10 @@
 # Codefolio_Project 
-**live demo =>  http://mrferid-001-site1.ftempurl.com/  (PS. this free server speed may be low upload small photos :) ) **
+**live demo =>  http://mrferid-001-site1.ftempurl.com/  (PS. this free server speed may be low upload small photos :) )**
 
 **What is it ?**
 *its social network for designers and programmers for sharing their porfolio and CV developed by me.*
 
-**Programming languages i use in this website **
+**Programming languages i use in this website**
 
 **Back end - Asp.net Core MVC 2.2 , MSSQL Entity Framework
 Fron end -HTML5, Css3, Javascript (JQuery, Ajax) 
