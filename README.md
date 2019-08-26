@@ -17,6 +17,7 @@ the site is not completely programmed so there may be some mistakes**
 you can create portfolio share images of your project add images to exiting portfolio etc. then your portfolio will be publeshed in your profile and in main search page. 
 also you can find friends, other people and subscribe to their profile, message them and recieve messages from other registered users. 
 you can control your message button from profile settings or block users.
+
 **for companies** you can search for portfolio sort them as most popular, only design, only programmer etc. also search for CV for ex. choose knowledge icons that you would like to see in candidates CV. or most viewed , most popular CV. 
 also you can search just for person.
 
