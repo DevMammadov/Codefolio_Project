@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="~/css/style.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <img src="~/Content/Images/System/banned.jpg" class="ban-img" />
+            <div class="reason">
+                <span style="font-size: 40px" class="text-danger">
+                    @ViewBag.number
+                </span>
+                <p style="font-size: 35px">
+                    @ViewBag.error
+                </p>
+
+                <a asp-action="Index" class="butt butt-gray" asp-controller="Home"> Ana səhifəyə keç </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
