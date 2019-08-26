@@ -7,7 +7,8 @@
 **Programming languages i use in this website**
 
 **Back end - Asp.net Core MVC 2.2 , MSSQL Entity Framework
-Fron end -HTML5, Css3, Javascript (JQuery, Ajax) 
+
+Front end -HTML5, Css3, Javascript (JQuery, Ajax) 
 Pages dont reload when you are in website thanks to Ajax and JSON. 
 the site is not completely programmed so there may be some mistakes**
 
@@ -25,4 +26,4 @@ also you can search just for person.
 you can add companyes, languages as default to site, you can edit users, sent him warning change their some information or delete.
 also you can ban user. banned user will not removed complately you can return back him whenever you want but banned user cant login, or their Cv or portfolio , full profile inaccessible for others.
 
-**надеюсь вам понравится :) - if you will open your profile in the demo codefolio message me your opinion there please.**
+**home you will like it :) - if you will open your profile in the demo codefolio message me your opinion there please.**
