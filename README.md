@@ -26,4 +26,4 @@ also you can search just for person.
 you can add companyes, languages as default to site, you can edit users, sent him warning change their some information or delete.
 also you can ban user. banned user will not removed complately you can return back him whenever you want but banned user cant login, or their Cv or portfolio , full profile inaccessible for others.
 
-**home you will like it :) - if you will open your profile in the demo codefolio message me your opinion there please.**
+**hope you will like it :) - if you will open your profile in the demo codefolio message me your opinion there please.**
